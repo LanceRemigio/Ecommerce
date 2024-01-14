@@ -11,6 +11,7 @@ An exercise in linear regression modelling to gain insights into Ecommerce Custo
 - Pandas
 - NumPy
 - Sklearn
+- Matplotlib
 
 # Project Description
 The goal of this project is to create a linear regression model that will answer the main question:
