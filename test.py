@@ -8,7 +8,6 @@ from sklearn import metrics
 
 sns.set_style(style = 'darkgrid')
 
-
 # Read in csv files and assign to variable named "customers"
 customers = pd.read_csv('Ecommerce Customers')
 
